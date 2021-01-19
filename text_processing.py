@@ -37,6 +37,7 @@ def normalize(input_string):
     return normalized_string
 
 
+
 def no_vowels(input_string):
     """
     인풋으로 받는 스트링에서 모든 모음 (a, e, i, o, u)를 제거시킨 스트링을 반환함
